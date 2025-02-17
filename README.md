@@ -37,14 +37,14 @@ A data analysis project examining global terrorism incidents from 1970, featurin
 
 ## 📈 Key Findings
 1. **Temporal Patterns**  
-   ![Monthly Distribution](visualizations/monthly_attacks.png)
-   - Peak activity in January and July
-   - 63% of incidents occurred in first half of year
+   ![Top 10 Targeted Countries](Top_10.png)
+   - Iran , Pakistan , India etc..
+   - 65% of incidents occurred in these countries.
 
 2. **Geographical Spread**  
-   ![Regional Distribution](visualizations/regional_distribution.png)
-   - North America: 48% of total incidents
-   - Western Europe: 22% of diplomatic targets
+   ![Regional Distribution](regional_distribution.png)
+   - Middle East and North Africa : 27.8% of total incidents
+   - South Asia: 24.8% of total incidents
 
 3. **Attack Characteristics**
    - Bombings: 39% of all incidents
