@@ -3,14 +3,14 @@
 
 ![Terrorism Analysis Visualization Sample](Terrorism_Analysis_Visualization_image.jpeg) 
 
-## 📖 Project Description
+##  Project Description
 A data analysis project examining global terrorism incidents from 1970, featuring:
 - Advanced data cleaning of raw terrorism records
 - Temporal and geographical pattern analysis
 - Attack type and target profiling
 - Interactive visualizations of key trends
 
-## 🛠 Key Features
+##  Key Features
 - **Data Cleaning Pipeline**
   - Missing value handling
   - Date/time standardization
@@ -30,12 +30,12 @@ A data analysis project examining global terrorism incidents from 1970, featurin
   - Matplotlib/Seaborn for visualizations
   - Geospatial mapping
   - Statistical analysis
-## 📊 Data Sources
+##  Data Sources
 - Primary dataset: `glo.csv` (sample terrorism incident records)
 - Country codes: ISO 3166-1 standard
 - Region classification: UCDP/PRIO schema
 
-## 📈 Key Findings
+##  Key Findings
 1. **Temporal Patterns**  
    ![Top 10 Targeted Countries](Top_10.png)
    - Iran , Pakistan , India etc..
@@ -51,10 +51,10 @@ A data analysis project examining global terrorism incidents from 1970, featurin
    - 71% success rate for assassination attempts
    - Government targets: 58% of infrastructure attacks
 
-## 📜 License
+##  License
 MIT License - See [LICENSE](LICENSE) for details
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 - Dataset providers
 - Pandas development team
 - Matplotlib visualization contributors
